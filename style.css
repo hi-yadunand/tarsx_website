@@ -12,7 +12,7 @@ body.light-theme {
 body {
   background-color: var(--bg-color);
   color: var(--text-color);
-  font-family: 'Segoe UI', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   height: 100vh;
   margin: 0;
   display: flex;
