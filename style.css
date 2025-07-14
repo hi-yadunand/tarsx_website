@@ -27,10 +27,10 @@ body {
   padding: 60px 20px;
 }
 
-h1 {
-  font-size: 3rem;
+.headline {
+  font-size: 2.5rem;
   color: #00ffff;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 
 .subheadline {
@@ -52,11 +52,6 @@ h1 {
   }
 }
 
-.countdown {
-  font-size: 1.2rem;
-  margin-bottom: 30px;
-}
-
 .features {
   display: flex;
   justify-content: center;
@@ -69,25 +64,7 @@ h1 {
   border: 1px solid #00ffff;
   padding: 10px 20px;
   border-radius: 10px;
-}
-
-.cta input {
-  padding: 10px;
-  width: 250px;
-  font-family: monospace;
-  border: none;
-  border-radius: 5px;
-  margin-right: 10px;
-}
-
-.cta button {
-  padding: 10px 20px;
-  font-family: monospace;
-  background-color: #00ffff;
-  color: black;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
+  font-size: 0.95rem;
 }
 
 .socials {
@@ -96,7 +73,7 @@ h1 {
 }
 
 footer {
-  margin-top: 50px;
+  margin-top: 40px;
   font-size: 0.8rem;
   color: #888;
 }
