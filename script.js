@@ -1,2 +1,2 @@
-// Currently empty – can be used later for animation, audio, or interactivity
-console.log("TARSX frontend loaded...");
+// Optional: you can add future enhancements like sound or typing animation here
+console.log("Satellite uplink sequence initialized...");
